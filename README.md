@@ -1,6 +1,5 @@
 <h1>Ent<b>Id</b>y <b>Id</b>eal <b>Id</b></h1>
 <h2>使い方</h2>
-<hr>
 <h3>設定</h3>
 <p><code>function entity_id:_set_id</code>でエンティティIDを設定する。このエンティティIDは2,362,232,015個(int値上下限)まで同時に存在できる。</p>
 <h3>使い方</h3>
