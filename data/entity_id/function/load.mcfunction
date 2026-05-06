@@ -1,0 +1,1 @@
+scoreboard objectives add eii.entity_id dummy
